@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @badalya1
-- 👀 I’m interested in everything technology
-- 🌱 I’m currently learning rust with tauri
-- 🌏 Currently in Tbilisi, Georgia
+Code every day for a year
